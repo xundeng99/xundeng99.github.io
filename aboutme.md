@@ -6,7 +6,7 @@ subtitle: Do you want to know a little bit more about me?
 
 My name is Xun Deng. 
 
-### My favorite aritist
+### My favorite artist
 [Zao Wou-Ki](https://en.wikipedia.org/wiki/Zao_Wou-Ki)
 
 ### My favorite food
